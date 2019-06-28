@@ -1,0 +1,26 @@
+<Persons>
+    <person age="1" name="xiao1">
+        <city>beijing</city>
+        <link rel="http://test.com/xiao1"/>
+    </person>
+    <person age="2" name="xiao2">
+        <city>shanghai</city>
+        <link rel="http://test.com/xiao2"/>
+    </person>
+    <person age="3" name="xiao3">
+        <city>guangzhou</city>
+        <link rel="http://test.com/xiao3"/>
+    </person>
+    <person age="4" name="xiao4">
+        <city>shenzhen</city>
+        <link rel="http://test.com/xiao4"/>
+    </person>
+    <person age="5" name="xiao5">
+        <city>hk</city>
+        <link rel="http://test.com/xiao5"/>
+    </person>
+    <person age="6" name="xiao6">
+        <city>tw</city>
+        <link rel="http://test.com/xiao6"/>
+    </person>
+</Persons>

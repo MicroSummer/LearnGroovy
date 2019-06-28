@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:pris="http://www.163.com/pris/1.0" xml:base="http://easyread.163.com">
+    <entry>
+        <title>为什么我们会被电影中的替身演员轻易骗过</title>
+        <pris:assess times="0" />
+        <pris:image_thumbnail type="image/jpg" href="http://easyread.ph.126.net/vYu8kkZJxtNbBBMbElFdbg==/7916516705336671812.jpg" width="600" height="399" />
+        <pris:entry_status type="news" style="0" subtype="" />
+        <pris:entry_status type="video" style="0" subtype="" />
+    </entry>
+    <pris:entry_status type="news" style="0" subtype="" />
+</feed>
